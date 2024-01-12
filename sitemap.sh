@@ -5,7 +5,7 @@
 # Version: 1.0
 # License: GPL v2
 # Free to use, without any warranty.
-# Written by Elmar Hanlhofer https://www.plop.at
+# Written by JhonDoe
 #======================================================
 #
 # sitemap.sh <URL> [sitemap file]

@@ -23,4 +23,3 @@ PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/sbin:/usr/local/bin
 1,31	0-5	*	*	*	root	adjkerntz -a
 
 0	*	*	*	*	root	bash /usr/local/etc/FreeBSD_Sitemap_Generator/sitemap.sh https://www.unixwinbsd.site /tmp/sitemap.xml
-0	*	*	*	*	root    /usr/local/etc/FreeBSD-grpc-WebCrawler/crawl/bin/client -start https://www.unixwinbsd.site
